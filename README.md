@@ -14,7 +14,7 @@ In this project I performed thorough data wrangling, exploration & analysis of O
 
 To see the final code and analysis use this link:
 
-https://github.com/shruti12912/open-street-map/blob/master/osm_final.ipynb
+https://github.com/shruti-tiwari/open-street-map/blob/master/osm_final.ipynb
 
 ## Conclusion:
 
